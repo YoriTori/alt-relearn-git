@@ -1,4 +1,5 @@
 secrets.txt
+.idea/
 
 # You can also just add comments like this with pound signs.
 # If you want to ignore all file type extension, use *.{ext} e.g. *.txt / *.png / *.log etc.
